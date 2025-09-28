@@ -1,0 +1,118 @@
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\TP Web-Equipo 1b.dll.config
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\TP Web-Equipo 1b.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\TP Web-Equipo 1b.pdb
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\csc.exe
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\csc.exe.config
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\csc.rsp
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\csi.exe
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\csi.exe.config
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\csi.rsp
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\Microsoft.Managed.Core.targets
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.AppContext.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Collections.Immutable.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Console.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Globalization.Calendars.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.IO.Compression.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.IO.FileSystem.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Net.Http.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Net.Sockets.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Reflection.Metadata.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.ValueTuple.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Xml.XmlDocument.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Xml.XPath.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\vbc.exe
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\vbc.exe.config
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\vbc.rsp
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\VBCSCompiler.exe
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\VBCSCompiler.exe.config
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\obj\Debug\TP Web-Equipo 1b.csproj.AssemblyReference.cache
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\obj\Debug\TP Web-Equipo 1b.csproj.CoreCompileInputs.cache
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\obj\Debug\TP Web-E.A302225D.Up2Date
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\obj\Debug\TP Web-Equipo 1b.dll
+H:\c# web\TP Web-Equipo 1b\TP Web-Equipo 1b\obj\Debug\TP Web-Equipo 1b.pdb
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\TP Web-Equipo 1b.dll.config
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\TP Web-Equipo 1b.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\TP Web-Equipo 1b.pdb
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\csc.rsp
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\csi.exe
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\csi.exe.config
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\csi.rsp
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Console.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Net.Http.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\obj\Debug\TP Web-Equipo 1b.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\obj\Debug\TP Web-Equipo 1b.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\obj\Debug\TP Web-E.A302225D.Up2Date
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\obj\Debug\TP Web-Equipo 1b.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\obj\Debug\TP Web-Equipo 1b.pdb
