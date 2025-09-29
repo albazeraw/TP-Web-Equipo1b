@@ -121,6 +121,20 @@
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="dataManager\dataManager.csproj">
+      <Project>{bf4234e5-197a-4817-bc52-cdf5ca3055c0}</Project>
+      <Name>dataManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="dominio\dominio.csproj">
+      <Project>{ff408284-893b-40db-838e-c4f7a449cd78}</Project>
+      <Name>dominio</Name>
+    </ProjectReference>
+    <ProjectReference Include="servicios\servicios.csproj">
+      <Project>{eb04f2e7-cc11-44ec-91dc-a11d0165149a}</Project>
+      <Name>servicios</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

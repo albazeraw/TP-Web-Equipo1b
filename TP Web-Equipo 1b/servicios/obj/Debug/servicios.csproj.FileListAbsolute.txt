@@ -1,0 +1,33 @@
+H:\proyectos c#\TPWinForm_equipo-1b\servicios\bin\Debug\servicios.dll
+H:\proyectos c#\TPWinForm_equipo-1b\servicios\bin\Debug\servicios.pdb
+H:\proyectos c#\TPWinForm_equipo-1b\servicios\bin\Debug\dataManager.dll
+H:\proyectos c#\TPWinForm_equipo-1b\servicios\bin\Debug\dominio.dll
+H:\proyectos c#\TPWinForm_equipo-1b\servicios\bin\Debug\dataManager.pdb
+H:\proyectos c#\TPWinForm_equipo-1b\servicios\bin\Debug\dominio.pdb
+H:\proyectos c#\TPWinForm_equipo-1b\servicios\obj\Debug\servicios.csproj.AssemblyReference.cache
+H:\proyectos c#\TPWinForm_equipo-1b\servicios\obj\Debug\servicios.csproj.CoreCompileInputs.cache
+H:\proyectos c#\TPWinForm_equipo-1b\servicios\obj\Debug\servicios.csproj.Up2Date
+H:\proyectos c#\TPWinForm_equipo-1b\servicios\obj\Debug\servicios.dll
+H:\proyectos c#\TPWinForm_equipo-1b\servicios\obj\Debug\servicios.pdb
+C:\Users\Administrator\Desktop\repo git\TPWinForm_equipo-1b\servicios\bin\Debug\servicios.dll
+C:\Users\Administrator\Desktop\repo git\TPWinForm_equipo-1b\servicios\bin\Debug\servicios.pdb
+C:\Users\Administrator\Desktop\repo git\TPWinForm_equipo-1b\servicios\bin\Debug\dataManager.dll
+C:\Users\Administrator\Desktop\repo git\TPWinForm_equipo-1b\servicios\bin\Debug\dominio.dll
+C:\Users\Administrator\Desktop\repo git\TPWinForm_equipo-1b\servicios\bin\Debug\dataManager.pdb
+C:\Users\Administrator\Desktop\repo git\TPWinForm_equipo-1b\servicios\bin\Debug\dominio.pdb
+C:\Users\Administrator\Desktop\repo git\TPWinForm_equipo-1b\servicios\obj\Debug\servicios.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\repo git\TPWinForm_equipo-1b\servicios\obj\Debug\servicios.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\repo git\TPWinForm_equipo-1b\servicios\obj\Debug\servicios.csproj.Up2Date
+C:\Users\Administrator\Desktop\repo git\TPWinForm_equipo-1b\servicios\obj\Debug\servicios.dll
+C:\Users\Administrator\Desktop\repo git\TPWinForm_equipo-1b\servicios\obj\Debug\servicios.pdb
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\servicios\bin\Debug\servicios.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\servicios\bin\Debug\servicios.pdb
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\servicios\bin\Debug\dataManager.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\servicios\bin\Debug\dominio.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\servicios\bin\Debug\dataManager.pdb
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\servicios\bin\Debug\dominio.pdb
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\servicios\obj\Debug\servicios.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\servicios\obj\Debug\servicios.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\servicios\obj\Debug\servicios.csproj.Up2Date
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\servicios\obj\Debug\servicios.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\servicios\obj\Debug\servicios.pdb

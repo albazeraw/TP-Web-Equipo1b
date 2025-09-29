@@ -116,3 +116,9 @@ C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\obj\De
 C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\obj\Debug\TP Web-E.A302225D.Up2Date
 C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\obj\Debug\TP Web-Equipo 1b.dll
 C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\obj\Debug\TP Web-Equipo 1b.pdb
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\dataManager.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\dominio.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\servicios.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\dataManager.pdb
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\dominio.pdb
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\bin\servicios.pdb

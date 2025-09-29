@@ -1,0 +1,21 @@
+H:\proyectos c#\TPWinForm_equipo-1b\dataManager\bin\Debug\dataManager.dll
+H:\proyectos c#\TPWinForm_equipo-1b\dataManager\bin\Debug\dataManager.pdb
+H:\proyectos c#\TPWinForm_equipo-1b\dataManager\obj\Debug\dataManager.csproj.AssemblyReference.cache
+H:\proyectos c#\TPWinForm_equipo-1b\dataManager\obj\Debug\dataManager.csproj.CoreCompileInputs.cache
+H:\proyectos c#\TPWinForm_equipo-1b\dataManager\obj\Debug\dataManager.dll
+H:\proyectos c#\TPWinForm_equipo-1b\dataManager\obj\Debug\dataManager.pdb
+C:\Users\Administrator\Desktop\repo git\TPWinForm_equipo-1b\dataManager\bin\Debug\dataManager.dll
+C:\Users\Administrator\Desktop\repo git\TPWinForm_equipo-1b\dataManager\bin\Debug\dataManager.pdb
+C:\Users\Administrator\Desktop\repo git\TPWinForm_equipo-1b\dataManager\obj\Debug\dataManager.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\repo git\TPWinForm_equipo-1b\dataManager\obj\Debug\dataManager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\repo git\TPWinForm_equipo-1b\dataManager\obj\Debug\dataManager.dll
+C:\Users\Administrator\Desktop\repo git\TPWinForm_equipo-1b\dataManager\obj\Debug\dataManager.pdb
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\dataManager\bin\Debug\dataManager.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\dataManager\bin\Debug\dataManager.pdb
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\dataManager\bin\Debug\dominio.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\dataManager\bin\Debug\dominio.pdb
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\dataManager\obj\Debug\dataManager.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\dataManager\obj\Debug\dataManager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\dataManager\obj\Debug\dataMana.4BEC7FF9.Up2Date
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\dataManager\obj\Debug\dataManager.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\dataManager\obj\Debug\dataManager.pdb

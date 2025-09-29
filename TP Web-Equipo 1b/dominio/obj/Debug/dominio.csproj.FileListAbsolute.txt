@@ -1,0 +1,18 @@
+H:\proyectos c#\TPWinForm_equipo-1b\dominio\bin\Debug\dominio.dll
+H:\proyectos c#\TPWinForm_equipo-1b\dominio\bin\Debug\dominio.pdb
+H:\proyectos c#\TPWinForm_equipo-1b\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+H:\proyectos c#\TPWinForm_equipo-1b\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+H:\proyectos c#\TPWinForm_equipo-1b\dominio\obj\Debug\dominio.dll
+H:\proyectos c#\TPWinForm_equipo-1b\dominio\obj\Debug\dominio.pdb
+C:\Users\Administrator\Desktop\repo git\TPWinForm_equipo-1b\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\repo git\TPWinForm_equipo-1b\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\repo git\TPWinForm_equipo-1b\dominio\obj\Debug\dominio.dll
+C:\Users\Administrator\Desktop\repo git\TPWinForm_equipo-1b\dominio\obj\Debug\dominio.pdb
+C:\Users\Administrator\Desktop\repo git\TPWinForm_equipo-1b\dominio\bin\Debug\dominio.dll
+C:\Users\Administrator\Desktop\repo git\TPWinForm_equipo-1b\dominio\bin\Debug\dominio.pdb
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\dominio\bin\Debug\dominio.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\dominio\bin\Debug\dominio.pdb
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\dominio\obj\Debug\dominio.dll
+C:\Users\Administrator\Desktop\repo git\TP Web-Equipo 1b\TP Web-Equipo 1b\dominio\obj\Debug\dominio.pdb
