@@ -3,6 +3,16 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <div class="row">
+        <div class="col-12 text-center mb-3">
+            <h3>¡Código de voucher válido!</h3>
+            <p class="text-success">
+                <asp:Label ID="lblCodigoVoucher" runat="server" CssClass="fw-bold"></asp:Label>
+            </p>
+            <p>Selecciona tu premio:</p>
+        </div>
+    </div>
+    
     <div class="row row-cols-1 row-cols-md-3 g-4 aligin-items-strech">
         <%
             foreach (dominio.articulos articulo in listaArticulos)
