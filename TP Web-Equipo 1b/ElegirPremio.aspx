@@ -12,20 +12,54 @@
             <p>Selecciona tu premio:</p>
         </div>
     </div>
-    
-    <div class="row row-cols-1 row-cols-md-3 g-4 aligin-items-strech">
+
+    <div class="row row-cols-1 row-cols-md-3 g-4 align-items-strech">
         <%
+            int index = 0;//contador para ids unico de los carruseles
             foreach (dominio.articulos articulo in listaArticulos)
-            {%>
+            {
+                string carouselId = "CarouselIdArticulo" + index;
+
+        %>
+        <div class="col">
             <div class="card h-100">
-                <img src="<%:articulo.imagenUrl%>" class="card-img-top" alt="..." style="height:200px; object-fit:contain;">
-                <div class="card-body">
-                    <h5 class="card-title"><%:articulo.nombre %></h5>
-                    <p class="card-text"><%:articulo.descripcion %></p>
-                    <asp:Button ID="btnSelecconar" CssClass="btn btn-primary" OnClick="btnSelecconar_Click" runat="server" Text="Seleccionar" />
+                <div id="<%=carouselId%>" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-inner">
+                        <% 
+                            servicios.gestionImagenes serImg = new servicios.gestionImagenes();
+                            var imagenes = serImg.listarPorArticulo(articulo.idArticulo);
+                            bool primera = true;
+                            foreach (dominio.imagen img in imagenes)
+                            {
+                        %>
+                        <div class="carousel-item <%= primera ? "active" : "" %>">
+                            <img src="<%=img.Url%>" class="card-img-top mx-auto d-block" style="height: 350px; max-width:100%; object-fit: contain;" alt="imagen del articulo" />
+                        </div>
+                        <%
+                                primera = false;
+                            } %>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#<%=carouselId%>" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon bg-dark" aria-hidden="true"></span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#<%=carouselId%>" data-bs-slide="next">
+                        <span class="carousel-control-next-icon bg-dark" aria-hidden="true"></span>
+                    </button>
                 </div>
             </div>
-            <%}%>
+            <div class="card-body">
+                <h5 class="card-title"><%:articulo.nombre %></h5>
+                <p class="card-text"><%:articulo.descripcion %></p>
+                <asp:Button ID="btnSelecconar" CssClass="btn btn-primary" OnClick="btnSelecconar_Click" runat="server" Text="Seleccionar" />
+
+            </div>
+        </div>
+        <%
+                index++; //incrementa el id para el proximo carrusel
+            }%>
     </div>
-            
+
+
+
+
 </asp:Content>
