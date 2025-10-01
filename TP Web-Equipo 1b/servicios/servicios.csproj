@@ -45,6 +45,7 @@
     <Compile Include="gestionCategoria.cs" />
     <Compile Include="gestionImagenes.cs" />
     <Compile Include="gestionMarcas.cs" />
+    <Compile Include="gestionVouchers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
