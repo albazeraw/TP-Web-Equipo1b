@@ -33,7 +33,7 @@
                             {
                         %>
                         <div class="carousel-item <%= primera ? "active" : "" %>">
-                            <img src="<%=img.Url%>" class="card-img-top mx-auto d-block" style="height: 350px; max-width:100%; object-fit: contain;" alt="imagen del articulo" />
+                            <img src="<%=img.Url%>" class="card-img-top mx-auto d-block" style="height: 350px; max-width: 100%; object-fit: contain;" alt="imagen del articulo" />
                         </div>
                         <%
                                 primera = false;
@@ -46,12 +46,13 @@
                         <span class="carousel-control-next-icon bg-dark" aria-hidden="true"></span>
                     </button>
                 </div>
-            </div>
-            <div class="card-body">
-                <h5 class="card-title"><%:articulo.nombre %></h5>
-                <p class="card-text"><%:articulo.descripcion %></p>
-                <asp:Button ID="btnSelecconar" CssClass="btn btn-primary" OnClick="btnSelecconar_Click" runat="server" Text="Seleccionar" />
 
+                <div class="card-body">
+                    <h5 class="card-title"><%:articulo.nombre %></h5>
+                    <p class="card-text"><%:articulo.descripcion %></p>
+                    <asp:Button ID="btnSelecconar" CssClass="btn btn-primary" OnClick="btnSelecconar_Click" runat="server" Text="Seleccionar" />
+
+                </div>
             </div>
         </div>
         <%
