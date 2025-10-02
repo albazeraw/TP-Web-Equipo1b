@@ -17,7 +17,7 @@ namespace servicios
         public emailServicio()
         {
             server = new SmtpClient();
-            server.Credentials = new NetworkCredential("albanosuarez739@gmail.com", "i z b j u x i j n r l t g w n q");
+            server.Credentials = new NetworkCredential("mail", "password");
             server.EnableSsl = true;
             server.Port = 587;
             server.Host = "smtp.gmail.com";
@@ -25,7 +25,7 @@ namespace servicios
         public void armarCorreo(string emailDestino,string nombre)
         {
             email = new MailMessage();
-            email.From = new MailAddress("albanosuarez739@gmail.com");
+            email.From = new MailAddress("mail");
             email.To.Add(emailDestino);
             email.Subject = "premio";
             email.Body = "felicidades " + nombre + " tu voucher se canjeo correctamente";

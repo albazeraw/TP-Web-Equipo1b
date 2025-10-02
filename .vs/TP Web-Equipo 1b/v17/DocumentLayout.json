@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\repo git\\TP Web-Equipo 1b\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EB04F2E7-CC11-44EC-91DC-A11D0165149A}|TP Web-Equipo 1b\\servicios\\servicios.csproj|C:\\Users\\Administrator\\Desktop\\repo git\\TP Web-Equipo 1b\\tp web-equipo 1b\\servicios\\emailservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB04F2E7-CC11-44EC-91DC-A11D0165149A}|TP Web-Equipo 1b\\servicios\\servicios.csproj|solutionrelative:tp web-equipo 1b\\servicios\\emailservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D00D270B-15F9-42A0-970A-64B43D70CE98}|TP Web-Equipo 1b\\TP Web-Equipo 1b.csproj|c:\\users\\administrator\\desktop\\repo git\\tp web-equipo 1b\\tp web-equipo 1b\\elegirpremio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{D00D270B-15F9-42A0-970A-64B43D70CE98}|TP Web-Equipo 1b\\TP Web-Equipo 1b.csproj|solutionrelative:tp web-equipo 1b\\elegirpremio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
@@ -15,15 +19,11 @@
       "RelativeMoniker": "D:0:0:{D00D270B-15F9-42A0-970A-64B43D70CE98}|TP Web-Equipo 1b\\TP Web-Equipo 1b.csproj|solutionrelative:tp web-equipo 1b\\mimaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D00D270B-15F9-42A0-970A-64B43D70CE98}|TP Web-Equipo 1b\\TP Web-Equipo 1b.csproj|c:\\users\\administrator\\desktop\\repo git\\tp web-equipo 1b\\tp web-equipo 1b\\ingresodatos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D00D270B-15F9-42A0-970A-64B43D70CE98}|TP Web-Equipo 1b\\TP Web-Equipo 1b.csproj|C:\\Users\\Administrator\\Desktop\\repo git\\TP Web-Equipo 1b\\tp web-equipo 1b\\ingresodatos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D00D270B-15F9-42A0-970A-64B43D70CE98}|TP Web-Equipo 1b\\TP Web-Equipo 1b.csproj|solutionrelative:tp web-equipo 1b\\ingresodatos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB04F2E7-CC11-44EC-91DC-A11D0165149A}|TP Web-Equipo 1b\\servicios\\servicios.csproj|c:\\users\\administrator\\desktop\\repo git\\tp web-equipo 1b\\tp web-equipo 1b\\servicios\\emailservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB04F2E7-CC11-44EC-91DC-A11D0165149A}|TP Web-Equipo 1b\\servicios\\servicios.csproj|solutionrelative:tp web-equipo 1b\\servicios\\emailservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D00D270B-15F9-42A0-970A-64B43D70CE98}|TP Web-Equipo 1b\\TP Web-Equipo 1b.csproj|c:\\users\\administrator\\desktop\\repo git\\tp web-equipo 1b\\tp web-equipo 1b\\ingresodatos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{D00D270B-15F9-42A0-970A-64B43D70CE98}|TP Web-Equipo 1b\\TP Web-Equipo 1b.csproj|C:\\Users\\Administrator\\Desktop\\repo git\\TP Web-Equipo 1b\\tp web-equipo 1b\\ingresodatos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{D00D270B-15F9-42A0-970A-64B43D70CE98}|TP Web-Equipo 1b\\TP Web-Equipo 1b.csproj|solutionrelative:tp web-equipo 1b\\ingresodatos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -70,11 +70,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "miMaster.Master",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\repo git\\TP Web-Equipo 1b\\TP Web-Equipo 1b\\miMaster.Master",
               "RelativeDocumentMoniker": "TP Web-Equipo 1b\\miMaster.Master",
@@ -88,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IngresoDatos.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\repo git\\TP Web-Equipo 1b\\TP Web-Equipo 1b\\IngresoDatos.aspx.cs",
               "RelativeDocumentMoniker": "TP Web-Equipo 1b\\IngresoDatos.aspx.cs",
@@ -96,8 +96,7 @@
               "RelativeToolTip": "TP Web-Equipo 1b\\IngresoDatos.aspx.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T00:33:41.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T00:33:41.249Z"
             },
             {
               "$type": "Document",
@@ -109,18 +108,17 @@
               "RelativeToolTip": "TP Web-Equipo 1b\\IngresoDatos.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-10-02T00:33:30.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T00:33:30.305Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "emailServicio.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\repo git\\TP Web-Equipo 1b\\TP Web-Equipo 1b\\servicios\\emailServicio.cs",
               "RelativeDocumentMoniker": "TP Web-Equipo 1b\\servicios\\emailServicio.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\repo git\\TP Web-Equipo 1b\\TP Web-Equipo 1b\\servicios\\emailServicio.cs",
               "RelativeToolTip": "TP Web-Equipo 1b\\servicios\\emailServicio.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAIAwwB8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAIAwwBsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-02T00:06:54.39Z",
               "EditorCaption": ""
@@ -231,12 +229,11 @@
               "RelativeToolTip": "TP Web-Equipo 1b\\dataManager\\accesoDatos.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAcwBYAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T00:15:54.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T00:15:54.12Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ElegirPremio.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\repo git\\TP Web-Equipo 1b\\TP Web-Equipo 1b\\ElegirPremio.aspx.cs",
               "RelativeDocumentMoniker": "TP Web-Equipo 1b\\ElegirPremio.aspx.cs",
@@ -244,12 +241,11 @@
               "RelativeToolTip": "TP Web-Equipo 1b\\ElegirPremio.aspx.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAA1wBsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T21:17:14.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-27T21:17:14.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ElegirPremio.aspx",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\repo git\\TP Web-Equipo 1b\\TP Web-Equipo 1b\\ElegirPremio.aspx",
               "RelativeDocumentMoniker": "TP Web-Equipo 1b\\ElegirPremio.aspx",
