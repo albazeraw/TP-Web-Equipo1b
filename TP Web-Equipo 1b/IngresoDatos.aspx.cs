@@ -1,4 +1,5 @@
-﻿using System;
+﻿using servicios;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -16,7 +17,9 @@ namespace TP_Web_Equipo_1b
 
         protected void btnParticipar_Click(object sender, EventArgs e)
         {
-           
+            emailServicio mail = new emailServicio();
+            mail.armarCorreo(TxtEmail.Text, txtNombre.Text);
+            mail.enviarEmail();
         }
     }
 }

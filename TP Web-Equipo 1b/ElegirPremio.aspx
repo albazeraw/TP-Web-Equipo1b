@@ -33,7 +33,7 @@
                             {
                         %>
                         <div class="carousel-item <%= primera ? "active" : "" %>">
-                            <img src="<%=img.Url%>" class="card-img-top mx-auto d-block" style="height: 350px; max-width: 100%; object-fit: contain;" alt="imagen del articulo" />
+                            <img src="<%=img.Url%>" class="card-img-top mx-auto d-block" style="height: 350px; max-width: 100%; object-fit: contain;" alt="imagen del articulo" onerror="this.onerror=null; this.src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVLDP5s2j9u1x86fOb7kNKXanJeMn8zZ30ZQ&s';"/>
                         </div>
                         <%
                                 primera = false;
