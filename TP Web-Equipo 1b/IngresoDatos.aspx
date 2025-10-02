@@ -9,7 +9,10 @@
             <h2 class="display-6 fw-bold mb-4">Ingresa tus datos</h2>
             <div class="col-4 mb-3">
                 <asp:Label ID="LblDni" runat="server" CssClass="form-label" Text="DNI"></asp:Label>
-                <asp:TextBox ID="txtDni" CssClass="form-control" runat="server" placeholder="42424242"></asp:TextBox>
+                <div class="input-group">
+                    <asp:TextBox ID="txtDni" CssClass="form-control" runat="server" placeholder="42424242"></asp:TextBox>
+                    <asp:Button ID="btnBuscarDni" CssClass="btn btn-outline-secondary" runat="server" OnClick="btnBuscarDni_Click" Text="Buscar DNI" />
+                </div>
             </div>
             <div class="row">
                 <div class="col-4 mb-3">

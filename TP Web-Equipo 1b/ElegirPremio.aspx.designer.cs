@@ -1,10 +1,10 @@
-Ôªø//------------------------------------------------------------------------------
-// <generado autom√°ticamente>
-//     Este c√≥digo fue generado por una herramienta.
+//------------------------------------------------------------------------------
+// <generado autom·ticamente>
+//     Este cÛdigo fue generado por una herramienta.
 //
-//     Los cambios en este archivo podr√≠an causar un comportamiento incorrecto y se perder√°n si
-//     se vuelve a generar el c√≥digo. 
-// </generado autom√°ticamente>
+//     Los cambios en este archivo podrÌan causar un comportamiento incorrecto y se perder·n si
+//     se vuelve a generar el cÛdigo. 
+// </generado autom·ticamente>
 //------------------------------------------------------------------------------
 
 namespace TP_Web_Equipo_1b
@@ -18,18 +18,9 @@ namespace TP_Web_Equipo_1b
         /// Control lblCodigoVoucher.
         /// </summary>
         /// <remarks>
-        /// Campo generado autom√°ticamente.
-        /// Para modificarlo, mueva la declaraci√≥n del campo del archivo del dise√±ador al archivo de c√≥digo subyacente.
+        /// Campo generado autom·ticamente.
+        /// Para modificarlo, mueva la declaraciÛn del campo del archivo del diseÒador al archivo de cÛdigo subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label lblCodigoVoucher;
-
-        /// <summary>
-        /// Control btnSelecconar.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado autom√°ticamente.
-        /// Para modificarlo, mueva la declaraci√≥n del campo del archivo del dise√±ador al archivo de c√≥digo subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnSelecconar;
     }
 }

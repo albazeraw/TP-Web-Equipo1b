@@ -1,11 +1,11 @@
-ï»¿<%@ Page Title="" Language="C#" MasterPageFile="~/miMaster.Master" AutoEventWireup="true" CodeBehind="ElegirPremio.aspx.cs" Inherits="TP_Web_Equipo_1b.WebForm1" %>
+<%@ Page Title="" Language="C#" MasterPageFile="~/miMaster.Master" AutoEventWireup="true" CodeBehind="ElegirPremio.aspx.cs" Inherits="TP_Web_Equipo_1b.WebForm1" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div class="row">
         <div class="col-12 text-center mb-3">
-            <h3>Â¡CÃ³digo de voucher vÃ¡lido!</h3>
+            <h3>¡Código de voucher válido!</h3>
             <p class="text-success">
                 <asp:Label ID="lblCodigoVoucher" runat="server" CssClass="fw-bold"></asp:Label>
             </p>
@@ -50,8 +50,7 @@
                 <div class="card-body">
                     <h5 class="card-title"><%:articulo.nombre %></h5>
                     <p class="card-text"><%:articulo.descripcion %></p>
-                    <asp:Button ID="btnSelecconar" CssClass="btn btn-primary" OnClick="btnSelecconar_Click" runat="server" Text="Seleccionar" />
-
+                    <a href="IngresoDatos.aspx?idArticulo=<%=articulo.idArticulo%>" class="btn btn-primary">Seleccionar</a>
                 </div>
             </div>
         </div>

@@ -1,4 +1,4 @@
-Ôªøusing System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -15,7 +15,7 @@ namespace TP_Web_Equipo_1b
         
         protected void Page_Load(object sender, EventArgs e)
         {
-            // Verificar que exista un c√≥digo de voucher v√°lido en la sesi√≥n
+            // Verificar que exista un cÛdigo de voucher v·lido en la sesiÛn
             if (Session["CodigoVoucher"] == null)
             {
                 Response.Redirect("Default.aspx");
@@ -24,7 +24,7 @@ namespace TP_Web_Equipo_1b
 
             if (!IsPostBack)
             {
-                lblCodigoVoucher.Text = $"C√≥digo: {Session["CodigoVoucher"].ToString()}";
+                lblCodigoVoucher.Text = $"CÛdigo: {Session["CodigoVoucher"].ToString()}";
             }
 
             gestionArticulos gestor = new gestionArticulos();

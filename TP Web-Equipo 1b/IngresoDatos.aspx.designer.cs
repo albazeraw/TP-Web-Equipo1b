@@ -33,6 +33,15 @@ namespace TP_Web_Equipo_1b
         protected global::System.Web.UI.WebControls.TextBox txtDni;
 
         /// <summary>
+        /// Control btnBuscarDni.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnBuscarDni;
+
+        /// <summary>
         /// Control lblNombre.
         /// </summary>
         /// <remarks>

@@ -61,5 +61,24 @@ namespace servicios
                 datos.cerrarConexion();
             }
         }
+
+        public void canjearVoucher(string codigoVoucher, int idCliente, int idArticulo)
+        {
+            accesoDatos datos = new accesoDatos();
+            try
+            {
+                datos.setearConsulta("UPDATE Vouchers SET IdCliente = @idCliente, FechaCanje = @fechaCanje, IdArticulo = @idArticulo WHERE CodigoVoucher = @codigo AND IdCliente IS NULL");
+                datos.setearParametro("@idCliente", idCliente);
+                datos.setearParametro("@fechaCanje", DateTime.Now);
+                datos.setearParametro("@idArticulo", idArticulo);
+                datos.setearParametro("@codigo", codigoVoucher);
+
+                datos.ejecutarAccion();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
     }
 }
