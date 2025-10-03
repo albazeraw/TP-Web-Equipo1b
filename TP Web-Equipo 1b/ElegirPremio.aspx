@@ -13,7 +13,7 @@
         </div>
     </div>
 
-    <div class="row row-cols-1 row-cols-md-3 g-4 align-items-strech">
+    <div class="row row-cols-1 row-cols-md-3 g-4 align-items-stretch">
         <%
             int index = 0;//contador para ids unico de los carruseles
             foreach (dominio.articulos articulo in listaArticulos)

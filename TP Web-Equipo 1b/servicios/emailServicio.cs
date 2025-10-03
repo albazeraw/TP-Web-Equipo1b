@@ -17,18 +17,20 @@ namespace servicios
         public emailServicio()
         {
             server = new SmtpClient();
-            server.Credentials = new NetworkCredential("mail", "password");
+            server.Credentials = new NetworkCredential("albanosuarezdev@gmail.com", "vqhi etdv mnxu jfbv");
             server.EnableSsl = true;
             server.Port = 587;
             server.Host = "smtp.gmail.com";
         }
         public void armarCorreo(string emailDestino,string nombre)
         {
+            emailDestino = emailDestino.Trim();
             email = new MailMessage();
-            email.From = new MailAddress("mail");
-            email.To.Add(emailDestino);
-            email.Subject = "premio";
-            email.Body = "felicidades " + nombre + " tu voucher se canjeo correctamente";
+            email.From = new MailAddress("albanosuarezdev@gmail.com");
+            email.To.Add(new MailAddress(emailDestino.Trim()));
+            //email.To.Add(emailDestino);
+            email.Subject = "Confirmación de participación";
+            email.Body = $"¡Felicidades {nombre}! Tu voucher se canjeó correctamente.";
         }
         public void enviarEmail()
         {

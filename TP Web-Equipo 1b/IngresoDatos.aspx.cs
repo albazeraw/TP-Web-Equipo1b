@@ -143,11 +143,14 @@ namespace TP_Web_Equipo_1b
                 Session.Remove("CodigoVoucher");
                 Session.Remove("ArticuloSeleccionado");
 
-                ClientScript.RegisterStartupScript(this.GetType(), "alert", "alert('¡Felicidades! Tu participación ha sido registrada exitosamente. Se ha enviado un email de confirmación.');", true);
+                //ClientScript.RegisterStartupScript(this.GetType(), "alert", "alert('¡Felicidades! Tu participación ha sido registrada exitosamente. Se ha enviado un email de confirmación.');", true);
+                //Cuando se canjee el voucher correctamente muestra mensaje , y nos redirige a la pagina Default
+                ClientScript.RegisterStartupScript(this.GetType(),"alertRedirect","alert('¡Felicidades! Tu participación ha sido registrada exitosamente. Se ha enviado un email de confirmación.'); window.location='Default.aspx';", true);
             }
             catch (Exception ex)
             {
-                ClientScript.RegisterStartupScript(this.GetType(), "alert", $"alert('Error al procesar la participación: {ex.Message}');", true);
+                ClientScript.RegisterStartupScript(this.GetType(), "alertError", $"alert('Error al procesar la participación: {ex.Message}');", true);
+               
             }
         }
 

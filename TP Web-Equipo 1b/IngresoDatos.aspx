@@ -10,7 +10,7 @@
             <div class="col-4 mb-3">
                 <asp:Label ID="LblDni" runat="server" CssClass="form-label" Text="DNI"></asp:Label>
                 <div class="input-group">
-                    <asp:TextBox ID="txtDni" CssClass="form-control" runat="server" placeholder="42424242"></asp:TextBox>
+                    <asp:TextBox ID="txtDni" CssClass="form-control" MaxLength="8" onkeypress="return event.charCode >= 48 && event.charCode <= 57" runat="server" placeholder="42424242"></asp:TextBox>
                     <asp:Button ID="btnBuscarDni" CssClass="btn btn-outline-secondary" runat="server" OnClick="btnBuscarDni_Click" Text="Buscar DNI" />
                 </div>
             </div>

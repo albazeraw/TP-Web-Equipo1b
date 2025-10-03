@@ -51,7 +51,7 @@ namespace dominio
                 return "El email es obligatorio";
             
             string emailPattern = @"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$";
-            if (!Regex.IsMatch(Email, emailPattern))
+            if (!Regex.IsMatch(Email.Trim(), emailPattern))
                 return "El formato del email no es válido";
 
             // Validar Dirección

@@ -9,7 +9,7 @@
             <hr />
             <div class="mb-3 text-center">
                 <label for="txtVoucher" class="form-label">Ingresa el codigo de tu voucher!</label>
-                <asp:TextBox ID="TxtCodigoVoucher" runat="server" CssClass="form-control text-center" PlaceHolder="XXXXXXXXXXXXXXX"></asp:TextBox>
+                <asp:TextBox ID="TxtCodigoVoucher" runat="server" CssClass="form-control text-center" PlaceHolder="CodigoXX"></asp:TextBox>
             </div>
             
             <!-- Mensaje de error -->
