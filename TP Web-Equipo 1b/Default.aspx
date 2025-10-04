@@ -4,25 +4,18 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div class="row justify-content-center">
-
         <div class="col-6">
             <hr />
             <div class="mb-3 text-center">
-                <label for="txtVoucher" class="form-label">Ingresa el codigo de tu voucher!</label>
-                <asp:TextBox ID="TxtCodigoVoucher" runat="server" CssClass="form-control text-center" PlaceHolder="CodigoXX"></asp:TextBox>
-            </div>
-            
-            <!-- Mensaje de error -->
-            <div class="mb-3 text-center">
-                <asp:Label ID="lblError" runat="server" CssClass="text-danger" Visible="false"></asp:Label>
+                <h2 class="display-6 fw-bold mb-4">¡Bienvenido al Portal de Vouchers!</h2>
+                <p class="mb-4">Canjea tu voucher y obtén increíbles premios</p>
             </div>
             
             <div class="mb-3 text-center">
-                <asp:Button ID="btnSiguiente" CssClass="btn btn-primary" OnClick="btnSiguiente_Click" runat="server" Text="Siguiente" />
-                <asp:Button ID="btnInicio" CssClass="btn btn-secondary ms-2" OnClick="btnInicio_Click" runat="server" Text="Ir al Inicio" Visible="false" />
+                <asp:Button ID="btnCanjearVoucher" CssClass="btn btn-primary" runat="server" 
+                    OnClick="btnCanjearVoucher_Click" Text="Canjear Voucher" />
             </div>
             <hr />
         </div>
-
     </div>
 </asp:Content>

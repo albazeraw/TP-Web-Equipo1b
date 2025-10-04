@@ -144,7 +144,7 @@ namespace TP_Web_Equipo_1b
                 Session.Remove("ArticuloSeleccionado");
 
                 //ClientScript.RegisterStartupScript(this.GetType(), "alert", "alert('¡Felicidades! Tu participación ha sido registrada exitosamente. Se ha enviado un email de confirmación.');", true);
-                //Cuando se canjee el voucher correctamente muestra mensaje , y nos redirige a la pagina Default
+                //Cuando se canjee el voucher correctamente muestra mensaje , y nos redirige a la página principal Default.aspx
                 ClientScript.RegisterStartupScript(this.GetType(),"alertRedirect","alert('¡Felicidades! Tu participación ha sido registrada exitosamente. Se ha enviado un email de confirmación.'); window.location='Default.aspx';", true);
             }
             catch (Exception ex)
